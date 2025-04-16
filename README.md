@@ -1,5 +1,9 @@
 ### Opa, blz? Sou o Alex !
-Inicio aqui minha jornada de Front-end.
+Inicio aqui minha jornada na programação com HTML, CSS e JavaScript.
+Curioso, motivado e pronto pra aprender muito! 😄
+
+Meu primeiro projeto já tá no ar — e vem muito mais por aí! 🚀
+Bora codar!
 
 <div>
    <a href="https://github.com/Cordobaalex">
